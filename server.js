@@ -23,7 +23,7 @@ app.get('/', function(req, res) {
 
 ig.use({
 // get access token here: http://instagram.pixelunion.net/
-access_token: '2004616988.1677ed0.7563c64c4c6b4b398041a6c4741dd303',
+access_token: '',
 });
 
 
